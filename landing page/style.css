@@ -1,0 +1,9 @@
+.satu , .card {
+display: flex;
+justify-content: space-around;
+margin-top: 50px;
+}
+
+img {
+    width: 70px;
+}

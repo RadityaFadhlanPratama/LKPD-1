@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+    
+}
+
+thead {
+    background-color: pink;
+}
+
+table {
+    border-collapse: collapse;
+    
+}
+
+h2 {
+    text-align: left;
+    color: blueviolet;
+}
